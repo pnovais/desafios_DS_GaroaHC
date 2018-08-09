@@ -1,0 +1,31 @@
+DADOS: Data_Science_Studies_Garoa_Galaxies.csv
+
+----------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------
+Dados de galáxias no universo próximo, com redshifts 0.005< z < 0.03.
+Além dos dados das magnitudes, temos ainda dados de classificações feitas por internautas no site GalaxyZoo (https://www.zooniverse.org/projects/zookeeper/galaxy-zoo).
+Caso queiram ver os objetos que têm nesa tabela, basta inserir o ObjID no Search nesse site aqui: http://skyserver.sdss.org/dr14/en/tools/explore/Summary.aspx?
+
+----------------------------------------------------------------------------------------------------------------
+
+DESCRIÇÃO DOS DADOS
+
+ObjId: Id galáxia
+ra: ascensão reta
+dec: declinação
+u: magnitude na banda u
+g: magnitude na banda g
+r: magnitude na banda r
+i: magnitude na banda i
+z: magnitude na banda z
+redshift: redshift 
+r25: raio de Petrosian da galáxia na banda r
+votos: quantidade total de votos
+elip: fração de votos para eliptica
+clockwise: fração de votos para clockwise
+anticlockwise: fração de votos para anticlockwise
+edge_disc: fração de votos para disco edge-on
+dont_know:  fração de votos para Não sei
+merger: fração de votos para Fusão
+combined: fração de votos para combinado(misto)
+massa_estela: estimativa da massa estelar da galáxia em Massas solares
